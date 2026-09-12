@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">蓝牙信号触发点击</string>
+    <string name="a11y_desc">监听音量键并在锁屏下模拟点击桌面小组件按钮</string>
+</resources>
